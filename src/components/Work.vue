@@ -10,7 +10,7 @@
     <v-layout
       align-center
       justify-center
-      px-10
+      pa-10
     >
       <v-flex>
         <h2 class="display-2 v-heading mb-3 font-weight-light">

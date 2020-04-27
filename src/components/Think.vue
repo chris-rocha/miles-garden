@@ -16,15 +16,12 @@
       layout
       wrap
     >
-
-
       <v-layout
-            px-10
-
+            pa-10
         align-center
         justify-center
+        class="accent"
       >
-
         <v-flex>
           <h2 class="display-2 v-heading mb-3 font-weight-light">
             We use independent <br>
